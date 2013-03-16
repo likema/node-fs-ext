@@ -13,7 +13,9 @@
   "engines": {
     "node": ">= v0.4.0"
   },
-  "dependencies": { },
+  "dependencies": {
+    "node-gyp": ">= 0.9.1"
+  },
   "licenses": [ {
     "type": "MIT"
   } ],
